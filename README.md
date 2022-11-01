@@ -13,7 +13,7 @@ Using data structure like priority Queue(min) , HashMap, Binary Tree.
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush4for/HuffmanCoding_C++
+  git clone https://github.com/piyush4for/HuffmanCoding_Cpp
 ```
 
 Go to the project directory
@@ -49,5 +49,5 @@ Start the decryption
 
 ## Explanation
 
-![HandWritten_Explanation](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![HandWritten_Explanation](https://github.com/piyush4for/HuffmanCoding_Cpp/blob/main/piyushHandWritten.jpg)
 
